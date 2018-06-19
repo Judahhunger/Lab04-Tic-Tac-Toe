@@ -7,16 +7,17 @@ namespace TicTacToeTests
     public class UnitTest1
     {
         [Theory]
-        [InlineData(new string[] { "1", "2", "3" }, new string[] { "1", "2", "3" }, true)]
-        [InlineData(new string[] { "3", "4", "9" }, new string[] { "3", "4", "9" }, true)]
-        [InlineData(new string[] { "1", "2", "5" }, new string[] { "1", "2", "5" }, true)]
-        public void TestForWinner(string[] board, string[] positions, bool value)
+        [InlineData(new string[] { "1", "2", "3" }, true)]
+        [InlineData(new string[] { "4", "5", "6" }, true)]
+        [InlineData(new string[] { "7", "8", "9" }, true)]
+        [InlineData(new string[] { "1", "2", "5" },false)]
+        public void TestForWinner(string[] positions, bool value)
         {
             Players test1 = new Players("John","X");
-            test1.PlayerPositions = new string[] { "1", "2", "3", "5" };
+            test1.PlayerPositions = positions;
 
             Players test2 = new Players("Doe", "O");
-            test2.PlayerPositions = new string[] { "3", "4", "9", "7" };
+            test2.PlayerPositions = new string[2];
 
             Game testGame = new Game();
 
