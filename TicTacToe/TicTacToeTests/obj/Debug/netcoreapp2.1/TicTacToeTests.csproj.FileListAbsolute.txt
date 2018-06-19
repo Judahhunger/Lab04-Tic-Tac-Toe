@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToeTests.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToeTests.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToeTests.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToeTests.dll
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToeTests.pdb
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToe.dll
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\bin\Debug\netcoreapp2.1\TicTacToe.pdb
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.csproj.CopyComplete
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.dll
+C:\Users\Admin\Desktop\Codefellows\401\Lab04-Tic-Tac-Toe\TicTacToe\TicTacToeTests\obj\Debug\netcoreapp2.1\TicTacToeTests.pdb
